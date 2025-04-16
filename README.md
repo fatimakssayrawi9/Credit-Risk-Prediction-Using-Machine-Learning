@@ -51,7 +51,6 @@ This project builds a machine learning pipeline to predict whether a borrower is
 You can find the full analysis and methodology in the file:  
 📍 `Final Report-Credit Risk Prediction-Fatima Kssayrawi.pdf`
 
-It includes:
 This report presents the full development lifecycle of a credit risk prediction system using machine learning. It includes a detailed explanation of the problem, related work, dataset characteristics, data preprocessing steps, model training, performance evaluation, and model deployment. Through the use of Decision Tree, Random Forest, and Gradient Boosting algorithms, the study aims to identify high-risk borrowers accurately and interpretably. The report also discusses class imbalance handling with SMOTE, visualization of results through confusion matrices, and concludes with a practical deployment strategy for real-time predictions.
 
 ---
