@@ -1,5 +1,9 @@
 # Credit-Risk-Prediction-Using-Machine-Learning
 
+---
+
+This project builds a machine learning pipeline to predict whether a borrower is **high risk (1)** or **low risk (0)** for loan default. It leverages decision trees, random forests, and gradient boosting classifiers to improve the accuracy of credit risk classification.
+
 
 ---
 
