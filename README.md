@@ -59,8 +59,7 @@ It includes:
 ## 🧠 Author
 
 **Fatima Kssayrawi**  
-Graduate Student | Oakland University
-April 2025
+Graduate Student | Oakland University | April 2025
 
 ---
 
