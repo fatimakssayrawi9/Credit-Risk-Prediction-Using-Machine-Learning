@@ -60,7 +60,7 @@ To run this notebook correctly, please make sure to **upload the following three
 ## 📈 Model Comparison Summary
 
 | Model             | Accuracy | Precision | F1-Score (High Risk) | Recall (High Risk) |
-|------------------|----------|----------------------|---------------------|
+|------------------|----------|----------------------|---------------------|---------------|
 | Decision Tree     | 0.89     | 0.92       | 0.93          |0.93           |
 | **Random Forest** | **0.90** | **0.93**             | **0.96**         | **0.94**       |
 | Gradient Boosting | 0.83     | 0.80                 | 0.89                |
