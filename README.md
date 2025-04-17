@@ -39,21 +39,28 @@ This project builds a machine learning pipeline to predict whether a borrower is
 
 ## 📂 Project Setup Instructions
 
-To run this notebook correctly, please make sure to **upload the following three files** before execution:
+To run this notebook correctly, please make sure to **upload the following files** before execution:
 
-1. **random_forest_model.pkl**  
-   → This file contains the trained Random Forest model.  
-   🔗 Download it from your Google Drive: [Click Here]([YOUR_GOOGLE_DRIVE_LINK_HERE](https://drive.google.com/file/d/1RBZA9K3C8uHZ269RJe1aciK2PU8bs29c/view?usp=drive_link))
-
-2. **scaler.pkl**  
-   → This is the fitted `StandardScaler` used during training.  
+1. **Training Data.csv**  
+   → This is the original training dataset used for building the model.  
+   📌 It's required to **generate city/state mappings** and perform preprocessing steps such as feature analysis or re-encoding.  
    📁 This file is located in the project repository.
 
-3. **model_columns.pkl**  
-   → This contains the list of encoded feature column names used by the model.  
+2. **random_forest_model.pkl**  
+   → This file contains the trained Random Forest model.  
+   🔗 Download it from Google Drive: [Click Here](https://drive.google.com/file/d/1RBZA9K3C8uHZ269RJe1aciK2PU8bs29c/view?usp=drive_link)
+
+3. **scaler.pkl**  
+   → This is the fitted `StandardScaler` used during training to standardize numeric features.  
+   📁 This file is located in the project repository.
+
+4. **model_columns.pkl**  
+   → This contains the list of encoded feature columns used by the model for prediction.  
    📁 This file is also located in the project repository.
 
-> ⚠️ Make sure to upload all three files before running the prediction or deployment cells.
+> ⚠️ Be sure to upload all four files **before running any prediction or deployment steps**.
+> The training dataset is especially important for generating the **city and state mappings** used to interpret user input.
+
 
 
 ---
