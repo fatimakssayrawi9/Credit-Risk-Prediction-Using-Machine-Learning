@@ -89,9 +89,14 @@ This report presents the full development lifecycle of a credit risk prediction 
 ## 📄 Project Presentation
 
 You can find the full analysis and methodology in the file:  
-📍 `Final Report-Credit Risk Prediction-Fatima Kssayrawi.pdf`
+📍 `Artificial_Intelligence_Project__Fatima_Kssayrawi_Final_Version.pdf`
 
-This report presents the full development lifecycle of a credit risk prediction system using machine learning. It includes a detailed explanation of the problem, related work, dataset characteristics, data preprocessing steps, model training, performance evaluation, and model deployment. Through the use of Decision Tree, Random Forest, and Gradient Boosting algorithms, the study aims to identify high-risk borrowers accurately and interpretably. The report also discusses class imbalance handling with SMOTE, visualization of results through confusion matrices, and concludes with a practical deployment strategy for real-time predictions.
+This presentation showcases a complete machine learning pipeline for predicting credit risk based on borrower data. It includes:
+1. An overview of the credit risk problem and its importance in finance
+2. Technical challenges and traditional methods
+3. A detailed breakdown of our machine learning approach including preprocessing, feature engineering, model selection, and evaluation
+4. A visual comparison of classifiers (Random Forest, Decision Tree, Gradient Boosting)
+5. Deployment strategy using a Streamlit web application for real-time predictions
 
 ---
 
