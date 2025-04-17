@@ -86,7 +86,7 @@ This report presents the full development lifecycle of a credit risk prediction 
 ---
 
 
-## 📄 Project Presentation
+## 📊 Project Presentation
 
 You can find the full analysis and methodology in the file:  
 📍 `Artificial_Intelligence_Project__Fatima_Kssayrawi_Final_Version.pdf`
