@@ -63,7 +63,7 @@ To run this notebook correctly, please make sure to **upload the following three
 |------------------|----------|----------------------|---------------------|
 | Decision Tree     | 0.89     | 0.56                 | **0.58**            |
 | **Random Forest** | **0.90** | **0.53**             | 0.47                |
-| Gradient Boosting | 0.83     | 0.19                 | 0.17                |
+| Gradient Boosting | 0.83     | 0.80                 | 0.89                |
 
 > 🔥 **Random Forest** was selected as the final model due to its overall performance and generalization.
 
