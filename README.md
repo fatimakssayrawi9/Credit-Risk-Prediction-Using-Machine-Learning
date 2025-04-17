@@ -35,7 +35,7 @@ This project builds a machine learning pipeline to predict whether a borrower is
 ---
 
 
-## 🚀 How to Use This Notebook (Demo.ipynb)
+## 📦 How to Use This Notebook (Demo.ipynb)
 
 ## 📂 Project Setup Instructions
 
