@@ -20,7 +20,7 @@ This project builds a machine learning pipeline to predict whether a borrower is
 
 ---
 
-## 🚀 How to Use This Notebook
+## 🚀 How to Use This Notebook (Credit_Risk_Prediction_Using_Machine_Learning.ipynb)
 
 1. Upload both datasets into the notebook environment (`Training Data.csv`, `Test Data.csv`).
 2. Open and run all cells in the notebook `Credit_Risk_Prediction.ipynb`.
@@ -34,6 +34,29 @@ This project builds a machine learning pipeline to predict whether a borrower is
 
 ---
 
+
+## 🚀 How to Use This Notebook (Credit_Risk_Prediction_Using_Machine_Learning.ipynb)
+
+## 📂 Project Setup Instructions
+
+To run this notebook correctly, please make sure to **upload the following three files** before execution:
+
+1. **random_forest_model.pkl**  
+   → This file contains the trained Random Forest model.  
+   🔗 Download it from your Google Drive: [Click Here](YOUR_GOOGLE_DRIVE_LINK_HERE)
+
+2. **scaler.pkl**  
+   → This is the fitted `StandardScaler` used during training.  
+   📁 This file is located in the project repository.
+
+3. **model_columns.pkl**  
+   → This contains the list of encoded feature column names used by the model.  
+   📁 This file is also located in the project repository.
+
+> ⚠️ Make sure to upload all three files before running the prediction or deployment cells.
+
+
+---
 ## 📈 Model Comparison Summary
 
 | Model             | Accuracy | F1-Score (High Risk) | Recall (High Risk) |
