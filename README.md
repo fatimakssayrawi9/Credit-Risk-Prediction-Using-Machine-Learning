@@ -59,10 +59,10 @@ To run this notebook correctly, please make sure to **upload the following three
 ---
 ## 📈 Model Comparison Summary
 
-| Model             | Accuracy | F1-Score (High Risk) | Recall (High Risk) |
+| Model             | Accuracy | Precision | F1-Score (High Risk) | Recall (High Risk) |
 |------------------|----------|----------------------|---------------------|
-| Decision Tree     | 0.89     | 0.56                 | **0.58**            |
-| **Random Forest** | **0.90** | **0.53**             | 0.47                |
+| Decision Tree     | 0.89     | 0.92       | 0.93          |0.93           |
+| **Random Forest** | **0.90** | **0.93**             | **0.96**         | **0.94**       |
 | Gradient Boosting | 0.83     | 0.80                 | 0.89                |
 
 > 🔥 **Random Forest** was selected as the final model due to its overall performance and generalization.
