@@ -43,7 +43,7 @@ To run this notebook correctly, please make sure to **upload the following three
 
 1. **random_forest_model.pkl**  
    → This file contains the trained Random Forest model.  
-   🔗 Download it from your Google Drive: [Click Here](YOUR_GOOGLE_DRIVE_LINK_HERE)
+   🔗 Download it from your Google Drive: [Click Here]([YOUR_GOOGLE_DRIVE_LINK_HERE](https://drive.google.com/file/d/1RBZA9K3C8uHZ269RJe1aciK2PU8bs29c/view?usp=drive_link))
 
 2. **scaler.pkl**  
    → This is the fitted `StandardScaler` used during training.  
